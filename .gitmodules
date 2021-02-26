@@ -1,4 +1,4 @@
 [submodule "submodule"]
 	path = submodule
 	url = https://github.com/sd4773342/submodule.git
-	branch = m-a
+	branch = master
